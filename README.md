@@ -1,5 +1,8 @@
 # Angular-21
 El propósito de este proyecto es la de establecer una estructura inicial que sirve para el desarrollo incremental de proyectos a lo largo del semestre
+
+## 01-instalacion-configuracion
+
 ### 1. Salida de ng version en la terminal
 <img src="assets/01-ng-version.png" width="400" >
 
@@ -14,4 +17,9 @@ El propósito de este proyecto es la de establecer una estructura inicial que si
 ### 4. HomePage funcionando en localhost:4200
 
 <img src="assets/01-home-page.png" width="400" >
-s
+
+---
+## 02-fundamentos-angular
+### 1. Profile-page funcionando en localhost:4200/profile
+
+<img src="assets/02-profile-page.png" width="400" >

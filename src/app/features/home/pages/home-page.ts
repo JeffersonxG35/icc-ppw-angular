@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   template: `
     <section>
       <h1>PPW Angular 21</h1>
-      <p>Proyecto inicial cargado correctamente.</p>
+      <p>Proyecto incremental listo para crecer.</p>
     </section>
   `,
 })
